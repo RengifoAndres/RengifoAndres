@@ -5,7 +5,7 @@ Currently, I am a Research Assistant at **Harvard Business School** and have pre
 
 I hold an MSc in Economics from Universidad de los Andes and a Bachelor’s degree from Universidad del Valle.
 
-In addition to research, I find great joy in teaching. I am currently Teaching Assistant for the Big Data and Machine Learning course at Universidad de los Andes.
+In addition to research, I find great joy in teaching. I was a Teaching Assistant for the Big Data and Machine Learning course at Universidad de los Andes.
 
 - 🔭 I’m currently working with firm's administrative data to understant how to improve managerial practices.
 - 🌱 I’m currently learning new Big Data and Machine Learning techniques and how to apply them to interesting Economic questions.
