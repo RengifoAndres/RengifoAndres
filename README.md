@@ -2,6 +2,7 @@
 
 
 I’m an Economist interested in Causal Inference, Econometrics, and Data Science.  Here is my [website](https://rengifoandres.github.io).
+
 Currently, I am a Research Assistant at **Harvard Business School** and have previously worked at the Business Department at **Universidad de los Andes**. 
 
 I hold an MSc in Economics from Universidad de los Andes and a Bachelor’s degree from Universidad del Valle.
