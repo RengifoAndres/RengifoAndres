@@ -11,8 +11,7 @@ In addition to research, I find great joy in teaching. I was the Teaching Assist
 
 - 🔭 I’m currently working with firm's administrative data to understant how to improve managerial practices.
 - 🌱 I’m currently learning new Big Data and Machine Learning techniques and how to apply them to interesting Economic questions.
-- 📫 Send me and [email](mailto:a.rengifoj.econ@gmail.com)
-- 
+- 💬 Have an idea and wants to collaborate, fell free to send me an [email](mailto:a.rengifoj.econ@gmail.com). 
 <!--
 **RengifoAndres/RengifoAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
