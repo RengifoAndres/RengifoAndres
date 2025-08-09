@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I’m an Economist interested in Causal Inference, Econometrics, and Data Science.  Here is my [website](https://rengifoandres.github.io).
+I’m an Economist interested in Causal Inference, Econometrics, and Data Science. Also I am interested in Labor Economics.   Here is my [website](https://rengifoandres.github.io).
 
 Currently, I am a Research Assistant at **Harvard Business School** and have previously worked at the Business Department at **Universidad de los Andes**. 
 
