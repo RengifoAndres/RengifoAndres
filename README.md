@@ -21,7 +21,7 @@ News!!  Look a my new Working Paper!!!
   <div>
     <strong>Boosted Migration: The Effect of Migration on Low-Wage Workers</strong> Submitted <br>
     <ul>
-      <li>  <a href="/files/MigML.pdf"> Working Paper Version</a> </li>
+      <li>  <a href="https://github.com/RengifoAndres/RengifoAndres.github.io/blob/master/files/MigML.pdf"> Working Paper Version</a> </li>
     </ul>
     <!-- Button to toggle abstract -->
     <button class="toggle-button" onclick="toggleAbstract(this, 'abstract1')">Abstract</button>
