@@ -17,6 +17,7 @@ In addition to research, I find great joy in teaching. I was the Teaching Assist
 
      # ⚡ ⚡ ⚡ News!!   ⚡ ⚡ ⚡
 ### 1) New Working Paper!!! 
+I am currently working in a new version of the paper!! 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
      <img src="https://github.com/RengifoAndres/RengifoAndres.github.io/blob/master/images/research_images/event_log_wages_MigML.png" alt="Event" style="width: 290px; height: auto; margin-right: 20px;">
