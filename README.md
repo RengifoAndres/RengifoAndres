@@ -9,6 +9,9 @@ I also worked at the Business Department at **Universidad de los Andes**.
 I hold an MSc in Economics from Universidad de los Andes and a Bachelor’s degree from Universidad del Valle.
 
 In addition to research, I find great joy in teaching. I was the Teaching Assistant (TA) for the course Big Data and Machine Learning at Universidad de los Andes.
+I have worked as a consultant and trainer in project and data management for social science research projects. 
+I assist research teams in establishing workflows for data management, project collaboration, and documentation, ensuring their work is replicable and reproducible. 
+I also teach how to use R, Stata and GitHub and . Interested? E-mail me for more information.
 
 - 🔭 I’m currently working with firm's administrative data to understand how to improve managerial practices.
 - 🌱 I’m currently learning new Big Data and Machine Learning techniques and how to apply them to interesting Economic questions.
