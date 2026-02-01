@@ -2,7 +2,6 @@
 
 
 I’m an Economist interested in Causal Inference, Econometrics, Data Science and Labor Economics.  Here is my [website](https://rengifoandres.github.io).
-
 Currently, I am a Senior Research Associate  at **Good Business Lab** Latin America. Previously I was a research assistant at **[Harvard Business School](https://d3.harvard.edu/digital-reskilling/our-team/)**. 
 I also worked at the Business Department at **Universidad de los Andes**. 
 
@@ -11,7 +10,7 @@ I hold an MSc in Economics from Universidad de los Andes and a Bachelor’s degr
 In addition to research, I find great joy in teaching. I was the Teaching Assistant (TA) for the course Big Data and Machine Learning at Universidad de los Andes.
 I have worked as a consultant and trainer in project and data management for social science research projects. 
 I assist research teams in establishing workflows for data management, project collaboration, and documentation, ensuring their work is replicable and reproducible. 
-I also teach how to use R, Stata and GitHub and . Interested? E-mail me for more information.
+I also teach how to use **R, Stata and GitHub** and **Causal inference and Econometrics**. Interested? E-mail me for more information.
 
 - 🔭 I’m currently working with firm's administrative data to understand how to improve managerial practices.
 - 🌱 I’m currently learning new Big Data and Machine Learning techniques and how to apply them to interesting Economic questions.
