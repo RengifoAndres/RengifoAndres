@@ -2,7 +2,7 @@
 
 
 I’m an Economist interested in Causal Inference, Econometrics, Data Science and Labor Economics.  Here is my [website](https://rengifoandres.github.io).
-Currently, I am a Senior Research Associate  at **Good Business Lab** Latin America. Previously I was a research assistant at **[Harvard Business School](https://d3.harvard.edu/digital-reskilling/our-team/)**. 
+ Previously I was a research assistant at **[Harvard Business School](https://d3.harvard.edu/digital-reskilling/our-team/)**. 
 I also worked at the Business Department at **Universidad de los Andes**. 
 
 I hold an MSc in Economics from Universidad de los Andes and a Bachelor’s degree from Universidad del Valle.
@@ -38,7 +38,7 @@ I am currently working in a new version of the paper!!
 
 <!--
 **RengifoAndres/RengifoAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Currently, I am a Senior Research Associate  at **Good Business Lab** Latin America.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
