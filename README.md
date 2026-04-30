@@ -14,6 +14,7 @@ I also teach how to use **R, Stata and GitHub** and **Causal inference and Econo
 
 - 🔭 I’m currently working with firm's administrative data to understand how to improve managerial practices.
 - 🌱 I’m currently learning new Big Data and Machine Learning techniques and how to apply them to interesting Economic questions.
+- 🌱 Also, I am learning how to integrate AI into economic research to make sure we can get the better research and ideas out there!!
 - 💬 Have an idea and want to collaborate, fell free to send me an [email](mailto:a.rengifoj.econ@gmail.com).
 - ⚡ Fun fact: I want to be a writer, but with the advent of AI, I don’t know if there will still be room for a human—imperfect and messy—writer.
 
