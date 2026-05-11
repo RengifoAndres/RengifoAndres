@@ -19,9 +19,8 @@ I also teach how to use **R, Stata and GitHub** and **Causal inference and Econo
 - ⚡ Fun fact: I want to be a writer, but with the advent of AI, I don’t know if there will still be room for a human—imperfect and messy—writer.
 
      # ⚡ ⚡ ⚡ News!!   ⚡ ⚡ ⚡
-### 1) New version of  Working Paper Coming soon!!! 
-I am currently working in a new version of the paper!! 
-The old version is here: 
+### 1) New version of  Working Paper OUT!!! 
+The NEW version of my paper is here: 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
      <img src="https://github.com/RengifoAndres/RengifoAndres.github.io/blob/master/images/research_images/bunching.png" alt="Event" style="width: 290px; height: auto; margin-right: 20px;">
   <div>
