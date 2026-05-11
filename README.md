@@ -23,7 +23,7 @@ I also teach how to use **R, Stata and GitHub** and **Causal inference and Econo
 I am currently working in a new version of the paper!! 
 The old version is here: 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-     <img src="https://github.com/RengifoAndres/RengifoAndres.github.io/blob/master/images/research_images/event_log_wages_MigML.png" alt="Event" style="width: 290px; height: auto; margin-right: 20px;">
+     <img src="https://github.com/RengifoAndres/RengifoAndres.github.io/blob/master/images/research_images/bunchig.png" alt="Event" style="width: 290px; height: auto; margin-right: 20px;">
   <div>
     <strong>Boosted Migration: The Effect of Migration on Low-Wage Workers</strong> Submitted <br>
     <ul>
