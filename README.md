@@ -36,6 +36,8 @@ The NEW version of my paper is here:
 ![Labor Economics](https://img.shields.io/badge/Labor%20Econ-💼-yellow)
 ![Causal Inference](https://img.shields.io/badge/Causal%20Inference-📊-green)
 
+[CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002393534)
+
 <!--
 **RengifoAndres/RengifoAndres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Currently, I am a Senior Research Associate  at **Good Business Lab** Latin America.
